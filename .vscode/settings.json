@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "algorithm": "c"
+    },
+    "jupyter.jupyterServerType": "local",
+    "C_Cpp.errorSquiggles": "Enabled"
+}

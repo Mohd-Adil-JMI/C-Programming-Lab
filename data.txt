@@ -1,0 +1,3 @@
+Mohd Adil	101	96	98	95	96.33
+Abu Shama	102	96	98	92	95.33
+Soban Farooq	103	97	91	93	93.67
